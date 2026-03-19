@@ -1,10 +1,11 @@
+
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "base_url": "https://raw.githubusercontent.com/polza0102-ux/skin/main/Skins/",
   "files": [
     "maccer.dff",
     "maccer.txd",
     "ofyri.dff",
-    "ofyri.dff"
+    "ofyri.txd"
   ]
 }
